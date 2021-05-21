@@ -5,11 +5,7 @@
     <link>https://camel.apache.org/community/</link>
     <description>Recent content in Community on Apache Camel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://camel.apache.org/community/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://camel.apache.org/community/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Articles</title>
       <link>https://camel.apache.org/community/articles/</link>

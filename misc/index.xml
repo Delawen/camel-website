@@ -5,11 +5,7 @@
     <link>https://camel.apache.org/misc/</link>
     <description>Recent content in Miscellaneous on Apache Camel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://camel.apache.org/misc/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://camel.apache.org/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acknowledgments</title>
       <link>https://camel.apache.org/acknowledgments/</link>

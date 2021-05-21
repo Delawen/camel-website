@@ -6,11 +6,7 @@
     <description>Recent content in Podcasts on Apache Camel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://camel.apache.org/categories/Podcasts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://camel.apache.org/categories/Podcasts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JBoss Asylum Podcast about Apache Camel 3</title>
       <link>https://camel.apache.org/blog/2019/12/Podcast47/</link>

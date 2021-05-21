@@ -6,11 +6,7 @@
     <description>Recent content in Camel K on Apache Camel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://camel.apache.org/categories/Camel-K/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://camel.apache.org/categories/Camel-K/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kamelet tooling support for Camel URI</title>
       <link>https://camel.apache.org/blog/2021/05/KameletToolingSupportInCamelURI/</link>

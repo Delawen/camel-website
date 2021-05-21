@@ -6,11 +6,7 @@
     <description>Recent content in Roadmap on Apache Camel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://camel.apache.org/categories/Roadmap/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://camel.apache.org/categories/Roadmap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache Camel 2020 Release Schedule</title>
       <link>https://camel.apache.org/blog/2020/03/LTS-Release-Schedule/</link>

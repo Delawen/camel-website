@@ -5,10 +5,6 @@
     <link>https://camel.apache.org/sitemap/</link>
     <description>Recent content in Sitemap on Apache Camel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://camel.apache.org/sitemap/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://camel.apache.org/sitemap/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

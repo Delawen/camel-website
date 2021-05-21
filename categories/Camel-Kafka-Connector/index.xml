@@ -6,11 +6,7 @@
     <description>Recent content in Camel-Kafka-Connector on Apache Camel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://camel.apache.org/categories/Camel-Kafka-Connector/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://camel.apache.org/categories/Camel-Kafka-Connector/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing Idempotency Support in Camel Kafka Connector</title>
       <link>https://camel.apache.org/blog/2020/12/CKC-idempotency-070/</link>
